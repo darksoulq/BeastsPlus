@@ -1,8 +1,8 @@
-# BeastsPlus Content Configuration
+# BeastsPlus Guide
 
 BeastsPlus is an addon for Beasts that allows you to attach FreeMinecraftModels (FMM) loaded models to entities. Using  YAML files, you can bind models, override sounds, and add boss barss.
 
-## 1. File Structure & Loading
+## 1. File Structure
 
 All beast configurations must be placed in the `plugins/BeastsPlus/content/` directory. The plugin supports sub-directory loading.
 
